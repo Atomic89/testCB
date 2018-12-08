@@ -1,0 +1,6 @@
+igm\OrgInsurInfo.class
+servletmap\MainServlet.class
+servletmap\AddInfoInsurOrg.class
+support\ConnectionToDB.class
+servletmap\SearchInfoInsurOrg.class
+support\WebAppListener.class
