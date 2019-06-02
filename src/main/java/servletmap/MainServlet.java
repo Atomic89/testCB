@@ -20,6 +20,7 @@ public class MainServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException{
+        System.out.println("igm");
         doGet(req, resp);
     }
 }
